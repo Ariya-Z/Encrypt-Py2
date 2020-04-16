@@ -1,5 +1,5 @@
-![CDNJS](https://img.shields.io/badge/python-2.7-blue)
-## Encrypt Python 2.7
+![CDNJS](https://img.shields.io/badge/python-2.7-blue) ![CDNJS](https://img.shields.io/badge/coded-Ariya%20Saputra-orange)
+# Encrypt Python 2.7
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git
