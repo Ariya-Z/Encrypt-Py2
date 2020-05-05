@@ -2,7 +2,7 @@
 ```
 $ pkg update && pkg upgrade
 $ pkg install python2 git
-$ git clone https://github.com/Ariya-Z/Encrypt-Py2
-$ cd Encrypt-Py2
+$ git clone https://github.com/ariyazz/encrypt
+$ cd encrypt
 $ python2 enc.py
 ```
